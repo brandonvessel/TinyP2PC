@@ -1,5 +1,5 @@
 # TinyP2PC
-<img src="https://github.com/brandonvessel/TinyP2PC/raw/master/logo.png" width="100">
+<img src="https://github.com/brandonvessel/TinyP2PC/raw/master/logo.png" width="200">
 TinyP2PC is a basic framework for simple P2P architectures allowing decentralized control of systems using a public and private RSA key system. It handles all the connection and logistics of peer discovery and message transmition while allowing developers to focus on the application of a P2P system. It is designed for almost instant transportation of data to every peer in the net where only RSA verified messages are transmitted and handled.
 
 ## Table of Contents
