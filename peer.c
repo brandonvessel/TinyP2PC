@@ -61,7 +61,7 @@ short self_peer_port = 8833;
 int32_t max_peers = 100;
 
 // peer update interval for peer updates and pinging in seconds
-int32_t update_interval = 500;
+int32_t update_interval = 60;
 
 // modulus for the update random padding
 int32_t update_interval_modulus_delta = 2;
