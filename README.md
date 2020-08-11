@@ -12,10 +12,6 @@ TinyP2PC is a basic framework for simple P2P architectures allowing decentralize
 # Contributing to TinyP2PC
 Feel free to contribute through pull requests or issues. See the [license section](#license) for more details.
 
-### A Note about Versioning
-
-This project practices [semantic versioning](https://semver.org/) for all code.
-
 # Start using TinyP2P
 TinyP2PC requires 2 things to start compiling:
 - gcc
